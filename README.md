@@ -5,3 +5,4 @@ Este Proyecto genera una pagina Web para que se pueda observar graficos acerca d
 ## 🌐 Enlace a la aplicación
 
 Puedes acceder a la aplicación en línea aquí: [Mi aplicación en Render](https://proyecto-7-1-95dn.onrender.com)
+
